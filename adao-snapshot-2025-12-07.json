@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-12-07T20:05:43.244Z",
+  "status": "success",
+  "daoMembers": 158,
+  "daodaoStaked": 1509,
+  "enterpriseStaked": 405,
+  "brokenNfts": 1090,
+  "circulatingSupply": 3172,
+  "backingPerNft_ampLUNA": 71.550109,
+  "ampLUNA_LUNA_Ratio": 1.885337624384252,
+  "backingPerNft_LUNA": 134.8961125264943,
+  "lunaPrice_USD": 0.110746,
+  "backingPerNft_USD": 14.939204877859138,
+  "unmintedNfts": 5828,
+  "unmintedTotalBacking_LUNA": 786174.5438044089,
+  "unmintedTotalBacking_USD": 87065.68602816307,
+  "treasuryTotal_USD": 23130.4889689554,
+  "tlaDepositsTotal_USD": 10218.54,
+  "tlaVpTotal_USD": 7213.62986405719,
+  "avgDailyGainPerNft_LUNA": 0.21
+}
