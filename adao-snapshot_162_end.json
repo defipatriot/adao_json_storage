@@ -1,21 +1,64 @@
 {
-  "timestamp": "2025-12-07T20:05:43.244Z",
+  "timestamp": "2025-12-11T00:57:50.179Z",
   "status": "success",
   "daoMembers": 158,
   "daodaoStaked": 1509,
   "enterpriseStaked": 405,
   "brokenNfts": 1090,
   "circulatingSupply": 3172,
-  "backingPerNft_ampLUNA": 71.550109,
-  "ampLUNA_LUNA_Ratio": 1.885337624384252,
-  "backingPerNft_LUNA": 134.8961125264943,
-  "lunaPrice_USD": 0.110746,
-  "backingPerNft_USD": 14.939204877859138,
+  "backingPerNft_ampLUNA": 71.83313,
+  "ampLUNA_LUNA_Ratio": 1.8898885929755265,
+  "backingPerNft_LUNA": 135.75661298472806,
+  "lunaPrice_USD": 0.196295,
+  "backingPerNft_USD": 26.648344345837195,
   "unmintedNfts": 5828,
-  "unmintedTotalBacking_LUNA": 786174.5438044089,
-  "unmintedTotalBacking_USD": 87065.68602816307,
-  "treasuryTotal_USD": 23130.4889689554,
-  "tlaDepositsTotal_USD": 10218.54,
-  "tlaVpTotal_USD": 7213.62986405719,
-  "avgDailyGainPerNft_LUNA": 0.21
+  "unmintedTotalBacking_LUNA": 791189.5404749952,
+  "unmintedTotalBacking_USD": 155306.55084753918,
+  "treasuryTotal_USD": 41338.767489831545,
+  "tlaDepositsTotal_USD": 14765.85,
+  "tlaVpTotal_USD": 12786.37906973635,
+  "avgDailyGainPerNft_LUNA": 0.21,
+  "tlaDeposits": {
+    "totalDeposit": 14765.85,
+    "totalDeposit_USD": 14765.85,
+    "estApr": 58.75,
+    "tokenBalances": [
+      {
+        "name": "CAPA",
+        "amount": 290329.5431757517,
+        "geckoId": "capapult"
+      },
+      {
+        "name": "LUNA",
+        "amount": 40777.2576572948,
+        "geckoId": "terra-luna-2"
+      },
+      {
+        "name": "ROAR",
+        "amount": 1830234797.5407054,
+        "geckoId": "lion-dao"
+      },
+      {
+        "name": "ampLUNA",
+        "amount": 11346.96906274959,
+        "geckoId": "eris-amplified-luna"
+      },
+      {
+        "name": "ampCAPA",
+        "amount": 314137.210503,
+        "geckoId": null
+      },
+      {
+        "name": "ampROAR",
+        "amount": 505866676.7060007,
+        "geckoId": null
+      },
+      {
+        "name": "xASTRO",
+        "amount": 20606.623159,
+        "geckoId": "astroport-fi"
+      }
+    ],
+    "snapshotDate": "2025-12-11T01:32:20.112Z"
+  }
 }
