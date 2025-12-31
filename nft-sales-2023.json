@@ -1,0 +1,1313 @@
+{
+  "meta": {
+    "version": "1.0",
+    "year": 2023,
+    "generated_at": "2025-12-31T00:32:51.304402Z",
+    "description": "AllianceDAO NFT sales data for 2023",
+    "note": "BBL volume in bLUNA (no historical USD). Boost volume in USD (prices at time of sale)."
+  },
+  "year_totals": {
+    "bbl": {
+      "sales_count": 210,
+      "volume_bluna": 25116.96,
+      "date_range": {
+        "first": "2023-12-27",
+        "last": "2023-12-31"
+      }
+    },
+    "boost": {
+      "sales_count": 0,
+      "volume_usd": 0,
+      "date_range": {
+        "first": null,
+        "last": null
+      }
+    }
+  },
+  "cumulative_totals": {
+    "through_year": 2023,
+    "bbl": {
+      "total_sales": 210,
+      "total_volume_bluna": 25116.96
+    },
+    "boost": {
+      "total_sales": 0,
+      "total_volume_usd": 0
+    },
+    "combined_sales": 210
+  },
+  "monthly_breakdown": {
+    "bbl": {
+      "2023-12": {
+        "count": 210,
+        "volume_bluna": 25116.96
+      }
+    },
+    "boost": {}
+  },
+  "sales": {
+    "bbl": [
+      {
+        "nft_id": 3373,
+        "amount": 130.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T21:57:18Z"
+      },
+      {
+        "nft_id": 1288,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T21:53:51Z"
+      },
+      {
+        "nft_id": 4378,
+        "amount": 121.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T21:36:05Z"
+      },
+      {
+        "nft_id": 3642,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T20:28:38Z"
+      },
+      {
+        "nft_id": 1987,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T20:02:12Z"
+      },
+      {
+        "nft_id": 1471,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:52:07Z"
+      },
+      {
+        "nft_id": 5127,
+        "amount": 250.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:50:19Z"
+      },
+      {
+        "nft_id": 5756,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:47:37Z"
+      },
+      {
+        "nft_id": 7891,
+        "amount": 112.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:33:36Z"
+      },
+      {
+        "nft_id": 4573,
+        "amount": 110.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:30:11Z"
+      },
+      {
+        "nft_id": 4417,
+        "amount": 190.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:22:31Z"
+      },
+      {
+        "nft_id": 6939,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:19:32Z"
+      },
+      {
+        "nft_id": 3490,
+        "amount": 115.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:14:03Z"
+      },
+      {
+        "nft_id": 1473,
+        "amount": 129.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:10:02Z"
+      },
+      {
+        "nft_id": 4661,
+        "amount": 190.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:08:44Z"
+      },
+      {
+        "nft_id": 5236,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:03:00Z"
+      },
+      {
+        "nft_id": 4984,
+        "amount": 180.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:02:00Z"
+      },
+      {
+        "nft_id": 7323,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T19:01:42Z"
+      },
+      {
+        "nft_id": 747,
+        "amount": 77.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:57:25Z"
+      },
+      {
+        "nft_id": 2048,
+        "amount": 185.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:54:54Z"
+      },
+      {
+        "nft_id": 8869,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:53:55Z"
+      },
+      {
+        "nft_id": 7720,
+        "amount": 175.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:52:12Z"
+      },
+      {
+        "nft_id": 7943,
+        "amount": 160.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:51:33Z"
+      },
+      {
+        "nft_id": 5258,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:49:58Z"
+      },
+      {
+        "nft_id": 7234,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:49:28Z"
+      },
+      {
+        "nft_id": 5085,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:45:40Z"
+      },
+      {
+        "nft_id": 149,
+        "amount": 240.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:45:34Z"
+      },
+      {
+        "nft_id": 13,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:42:35Z"
+      },
+      {
+        "nft_id": 3290,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:41:35Z"
+      },
+      {
+        "nft_id": 1554,
+        "amount": 87.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:38:40Z"
+      },
+      {
+        "nft_id": 3049,
+        "amount": 88.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:37:32Z"
+      },
+      {
+        "nft_id": 7519,
+        "amount": 125.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:35:14Z"
+      },
+      {
+        "nft_id": 1290,
+        "amount": 160.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:21:46Z"
+      },
+      {
+        "nft_id": 7243,
+        "amount": 99.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:17:34Z"
+      },
+      {
+        "nft_id": 3523,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T18:02:36Z"
+      },
+      {
+        "nft_id": 3653,
+        "amount": 60.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T17:57:12Z"
+      },
+      {
+        "nft_id": 1551,
+        "amount": 105.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T17:51:34Z"
+      },
+      {
+        "nft_id": 4617,
+        "amount": 70.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T17:49:59Z"
+      },
+      {
+        "nft_id": 4395,
+        "amount": 109.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T17:36:44Z"
+      },
+      {
+        "nft_id": 3817,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T17:20:03Z"
+      },
+      {
+        "nft_id": 4452,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T17:14:41Z"
+      },
+      {
+        "nft_id": 7369,
+        "amount": 69.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:48:29Z"
+      },
+      {
+        "nft_id": 1033,
+        "amount": 155.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:45:17Z"
+      },
+      {
+        "nft_id": 185,
+        "amount": 155.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:44:35Z"
+      },
+      {
+        "nft_id": 8516,
+        "amount": 70.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:43:41Z"
+      },
+      {
+        "nft_id": 6785,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:33:10Z"
+      },
+      {
+        "nft_id": 2528,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:27:40Z"
+      },
+      {
+        "nft_id": 3518,
+        "amount": 155.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:16:33Z"
+      },
+      {
+        "nft_id": 4588,
+        "amount": 160.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:13:51Z"
+      },
+      {
+        "nft_id": 4472,
+        "amount": 160.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:13:39Z"
+      },
+      {
+        "nft_id": 9264,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T16:13:27Z"
+      },
+      {
+        "nft_id": 5402,
+        "amount": 156.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:58:07Z"
+      },
+      {
+        "nft_id": 8473,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:56:37Z"
+      },
+      {
+        "nft_id": 346,
+        "amount": 99.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:56:24Z"
+      },
+      {
+        "nft_id": 7686,
+        "amount": 78.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:50:28Z"
+      },
+      {
+        "nft_id": 4437,
+        "amount": 145.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:44:41Z"
+      },
+      {
+        "nft_id": 2276,
+        "amount": 160.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:37:47Z"
+      },
+      {
+        "nft_id": 8790,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:36:24Z"
+      },
+      {
+        "nft_id": 371,
+        "amount": 160.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:28:57Z"
+      },
+      {
+        "nft_id": 9215,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:26:10Z"
+      },
+      {
+        "nft_id": 8839,
+        "amount": 300.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:25:52Z"
+      },
+      {
+        "nft_id": 4592,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:25:46Z"
+      },
+      {
+        "nft_id": 8430,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:24:52Z"
+      },
+      {
+        "nft_id": 8613,
+        "amount": 76.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:22:52Z"
+      },
+      {
+        "nft_id": 6218,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:22:15Z"
+      },
+      {
+        "nft_id": 1165,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:16:50Z"
+      },
+      {
+        "nft_id": 6008,
+        "amount": 73.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:15:27Z"
+      },
+      {
+        "nft_id": 1832,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:15:15Z"
+      },
+      {
+        "nft_id": 3801,
+        "amount": 135.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:14:33Z"
+      },
+      {
+        "nft_id": 7192,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:13:03Z"
+      },
+      {
+        "nft_id": 760,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:12:33Z"
+      },
+      {
+        "nft_id": 962,
+        "amount": 125.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:11:21Z"
+      },
+      {
+        "nft_id": 3779,
+        "amount": 125.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:10:15Z"
+      },
+      {
+        "nft_id": 1367,
+        "amount": 270.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:09:44Z"
+      },
+      {
+        "nft_id": 1161,
+        "amount": 300.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:09:14Z"
+      },
+      {
+        "nft_id": 768,
+        "amount": 250.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:09:02Z"
+      },
+      {
+        "nft_id": 4136,
+        "amount": 281.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:08:26Z"
+      },
+      {
+        "nft_id": 5075,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:07:13Z"
+      },
+      {
+        "nft_id": 543,
+        "amount": 250.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:06:49Z"
+      },
+      {
+        "nft_id": 5674,
+        "amount": 336.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:06:28Z"
+      },
+      {
+        "nft_id": 2490,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:05:29Z"
+      },
+      {
+        "nft_id": 9075,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:02:12Z"
+      },
+      {
+        "nft_id": 5695,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T15:00:18Z"
+      },
+      {
+        "nft_id": 6027,
+        "amount": 79.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:59:24Z"
+      },
+      {
+        "nft_id": 4060,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:51:30Z"
+      },
+      {
+        "nft_id": 1243,
+        "amount": 109.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:39:41Z"
+      },
+      {
+        "nft_id": 9234,
+        "amount": 115.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:39:17Z"
+      },
+      {
+        "nft_id": 6248,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:36:29Z"
+      },
+      {
+        "nft_id": 4871,
+        "amount": 110.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:31:46Z"
+      },
+      {
+        "nft_id": 4346,
+        "amount": 105.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:30:45Z"
+      },
+      {
+        "nft_id": 4364,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:30:21Z"
+      },
+      {
+        "nft_id": 665,
+        "amount": 99.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:27:52Z"
+      },
+      {
+        "nft_id": 1138,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:26:04Z"
+      },
+      {
+        "nft_id": 6076,
+        "amount": 70.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:25:34Z"
+      },
+      {
+        "nft_id": 735,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:14:39Z"
+      },
+      {
+        "nft_id": 5003,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:14:27Z"
+      },
+      {
+        "nft_id": 2808,
+        "amount": 70.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:09:40Z"
+      },
+      {
+        "nft_id": 3921,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:07:46Z"
+      },
+      {
+        "nft_id": 7183,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:06:29Z"
+      },
+      {
+        "nft_id": 7761,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T14:04:44Z"
+      },
+      {
+        "nft_id": 8804,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:57:38Z"
+      },
+      {
+        "nft_id": 7134,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:54:51Z"
+      },
+      {
+        "nft_id": 2420,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:53:33Z"
+      },
+      {
+        "nft_id": 7822,
+        "amount": 89.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:46:25Z"
+      },
+      {
+        "nft_id": 8205,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:37:54Z"
+      },
+      {
+        "nft_id": 1496,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:28:48Z"
+      },
+      {
+        "nft_id": 7302,
+        "amount": 99.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:28:30Z"
+      },
+      {
+        "nft_id": 8940,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:26:48Z"
+      },
+      {
+        "nft_id": 3762,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:25:42Z"
+      },
+      {
+        "nft_id": 6073,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:21:29Z"
+      },
+      {
+        "nft_id": 4169,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:21:18Z"
+      },
+      {
+        "nft_id": 8614,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:18:39Z"
+      },
+      {
+        "nft_id": 4303,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:18:27Z"
+      },
+      {
+        "nft_id": 5336,
+        "amount": 110.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:17:57Z"
+      },
+      {
+        "nft_id": 911,
+        "amount": 125.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:15:27Z"
+      },
+      {
+        "nft_id": 1315,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:12:40Z"
+      },
+      {
+        "nft_id": 4431,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:09:47Z"
+      },
+      {
+        "nft_id": 4335,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:08:46Z"
+      },
+      {
+        "nft_id": 3048,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:05:15Z"
+      },
+      {
+        "nft_id": 4868,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:04:15Z"
+      },
+      {
+        "nft_id": 8814,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:03:39Z"
+      },
+      {
+        "nft_id": 1294,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:03:10Z"
+      },
+      {
+        "nft_id": 4463,
+        "amount": 88.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:02:27Z"
+      },
+      {
+        "nft_id": 410,
+        "amount": 111.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T13:00:02Z"
+      },
+      {
+        "nft_id": 5563,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:55:38Z"
+      },
+      {
+        "nft_id": 3530,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:54:56Z"
+      },
+      {
+        "nft_id": 9204,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:54:14Z"
+      },
+      {
+        "nft_id": 5165,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:53:44Z"
+      },
+      {
+        "nft_id": 8257,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:49:59Z"
+      },
+      {
+        "nft_id": 1444,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:44:17Z"
+      },
+      {
+        "nft_id": 6835,
+        "amount": 73.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:40:35Z"
+      },
+      {
+        "nft_id": 4365,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:39:40Z"
+      },
+      {
+        "nft_id": 7776,
+        "amount": 99.5,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:39:04Z"
+      },
+      {
+        "nft_id": 3762,
+        "amount": 70.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:34:33Z"
+      },
+      {
+        "nft_id": 1309,
+        "amount": 70.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:28:11Z"
+      },
+      {
+        "nft_id": 3942,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:25:53Z"
+      },
+      {
+        "nft_id": 2240,
+        "amount": 99.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:24:35Z"
+      },
+      {
+        "nft_id": 326,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:19:43Z"
+      },
+      {
+        "nft_id": 5044,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:12:39Z"
+      },
+      {
+        "nft_id": 664,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:06:08Z"
+      },
+      {
+        "nft_id": 8814,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T12:05:32Z"
+      },
+      {
+        "nft_id": 4504,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:56:54Z"
+      },
+      {
+        "nft_id": 9346,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:50:13Z"
+      },
+      {
+        "nft_id": 105,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:48:59Z"
+      },
+      {
+        "nft_id": 7965,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:47:47Z"
+      },
+      {
+        "nft_id": 5018,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:47:23Z"
+      },
+      {
+        "nft_id": 1280,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:46:46Z"
+      },
+      {
+        "nft_id": 1598,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:46:29Z"
+      },
+      {
+        "nft_id": 1037,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:45:47Z"
+      },
+      {
+        "nft_id": 2561,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:43:17Z"
+      },
+      {
+        "nft_id": 4598,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:40:04Z"
+      },
+      {
+        "nft_id": 8764,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:37:16Z"
+      },
+      {
+        "nft_id": 9148,
+        "amount": 74.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:36:40Z"
+      },
+      {
+        "nft_id": 3826,
+        "amount": 74.5,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:36:35Z"
+      },
+      {
+        "nft_id": 6601,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:36:17Z"
+      },
+      {
+        "nft_id": 5418,
+        "amount": 92.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:33:08Z"
+      },
+      {
+        "nft_id": 1461,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:32:38Z"
+      },
+      {
+        "nft_id": 3828,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:32:14Z"
+      },
+      {
+        "nft_id": 9296,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:30:33Z"
+      },
+      {
+        "nft_id": 425,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:27:45Z"
+      },
+      {
+        "nft_id": 7519,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:27:34Z"
+      },
+      {
+        "nft_id": 4020,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:26:46Z"
+      },
+      {
+        "nft_id": 7256,
+        "amount": 110.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:24:51Z"
+      },
+      {
+        "nft_id": 2380,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:24:40Z"
+      },
+      {
+        "nft_id": 6002,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:23:21Z"
+      },
+      {
+        "nft_id": 7707,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:21:46Z"
+      },
+      {
+        "nft_id": 1783,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:19:22Z"
+      },
+      {
+        "nft_id": 9110,
+        "amount": 150.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:19:02Z"
+      },
+      {
+        "nft_id": 4785,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:18:56Z"
+      },
+      {
+        "nft_id": 2571,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:18:32Z"
+      },
+      {
+        "nft_id": 4008,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:18:08Z"
+      },
+      {
+        "nft_id": 5466,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:16:56Z"
+      },
+      {
+        "nft_id": 4483,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:14:51Z"
+      },
+      {
+        "nft_id": 3539,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:13:57Z"
+      },
+      {
+        "nft_id": 3601,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:11:39Z"
+      },
+      {
+        "nft_id": 4029,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:10:03Z"
+      },
+      {
+        "nft_id": 389,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:09:09Z"
+      },
+      {
+        "nft_id": 1890,
+        "amount": 75.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:08:39Z"
+      },
+      {
+        "nft_id": 1395,
+        "amount": 76.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:05:39Z"
+      },
+      {
+        "nft_id": 7023,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T11:04:51Z"
+      },
+      {
+        "nft_id": 9406,
+        "amount": 80.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:59:49Z"
+      },
+      {
+        "nft_id": 4613,
+        "amount": 83.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:58:49Z"
+      },
+      {
+        "nft_id": 1830,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:58:01Z"
+      },
+      {
+        "nft_id": 8348,
+        "amount": 85.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:57:13Z"
+      },
+      {
+        "nft_id": 5049,
+        "amount": 84.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:56:49Z"
+      },
+      {
+        "nft_id": 1448,
+        "amount": 100.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:55:26Z"
+      },
+      {
+        "nft_id": 4554,
+        "amount": 85.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:54:08Z"
+      },
+      {
+        "nft_id": 3303,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:53:44Z"
+      },
+      {
+        "nft_id": 3749,
+        "amount": 89.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:53:14Z"
+      },
+      {
+        "nft_id": 943,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:51:14Z"
+      },
+      {
+        "nft_id": 4871,
+        "amount": 90.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:50:08Z"
+      },
+      {
+        "nft_id": 4346,
+        "amount": 95.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:48:36Z"
+      },
+      {
+        "nft_id": 1116,
+        "amount": 110.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:39:15Z"
+      },
+      {
+        "nft_id": 6103,
+        "amount": 119.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:34:47Z"
+      },
+      {
+        "nft_id": 5779,
+        "amount": 165.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:33:38Z"
+      },
+      {
+        "nft_id": 72,
+        "amount": 115.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:32:21Z"
+      },
+      {
+        "nft_id": 8078,
+        "amount": 119.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:31:31Z"
+      },
+      {
+        "nft_id": 7165,
+        "amount": 120.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:26:13Z"
+      },
+      {
+        "nft_id": 56,
+        "amount": 124.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:24:31Z"
+      },
+      {
+        "nft_id": 2905,
+        "amount": 145.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:23:55Z"
+      },
+      {
+        "nft_id": 2317,
+        "amount": 129.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T10:22:44Z"
+      },
+      {
+        "nft_id": 2952,
+        "amount": 227.96,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T06:10:32Z"
+      },
+      {
+        "nft_id": 921,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-31T06:09:27Z"
+      },
+      {
+        "nft_id": 2093,
+        "amount": 280.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-30T20:18:59Z"
+      },
+      {
+        "nft_id": 1505,
+        "amount": 250.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-30T18:17:10Z"
+      },
+      {
+        "nft_id": 5696,
+        "amount": 250.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-30T15:51:48Z"
+      },
+      {
+        "nft_id": 3610,
+        "amount": 250.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-30T15:18:10Z"
+      },
+      {
+        "nft_id": 7209,
+        "amount": 200.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-28T13:28:37Z"
+      },
+      {
+        "nft_id": 6883,
+        "amount": 169.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-27T15:53:00Z"
+      },
+      {
+        "nft_id": 7839,
+        "amount": 170.0,
+        "token": "bLUNA",
+        "timestamp": "2023-12-27T15:43:40Z"
+      }
+    ],
+    "boost": []
+  }
+}
