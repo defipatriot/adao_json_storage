@@ -1309,5 +1309,22 @@
       }
     ],
     "boost": []
+  },
+  "top_10_sales_all_time": {
+    "note": "Top 10 NFT sales by USD value through end of this year",
+    "last_updated": "2025-12-31",
+    "minimum_usd_to_qualify": null,
+    "sales": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
   }
 }
