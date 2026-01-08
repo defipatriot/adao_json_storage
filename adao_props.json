@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-01-07T21:02:26.234Z",
+  "exported_at": "2026-01-08T21:00:00Z",
   "proposals": {
     "a1": {
       "id": "a1",
@@ -89,7 +89,8 @@
           "LUNA": -10
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2024-10-15T12:00:00Z"
     },
     "a2": {
       "id": "a2",
@@ -236,7 +237,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2024-11-15T12:00:00Z"
     },
     "a3": {
       "id": "a3",
@@ -467,7 +469,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2024-11-15T12:00:00Z"
     },
     "a4": {
       "id": "a4",
@@ -647,7 +650,7 @@
             }
           },
           "lpType": "non-compounding",
-          "lpTypeLabel": "📥 Non-Compounding"
+          "lpTypeLabel": "\ud83d\udce5 Non-Compounding"
         }
       ],
       "fetchedAt": "2026-01-07T20:27:08.310Z",
@@ -720,7 +723,8 @@
           "LUNA": -1769.07521
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-01-15T12:00:00Z"
     },
     "a5": {
       "id": "a5",
@@ -901,7 +905,7 @@
             }
           },
           "lpType": "compounding",
-          "lpTypeLabel": "🔄 Auto-Compounding"
+          "lpTypeLabel": "\ud83d\udd04 Auto-Compounding"
         }
       ],
       "fetchedAt": "2026-01-07T20:27:44.333Z",
@@ -981,7 +985,8 @@
           "LUNA": -442.268803
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-01-15T12:00:00Z"
     },
     "a6": {
       "id": "a6",
@@ -1176,7 +1181,8 @@
           "LUNA": -50000
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-01-15T12:00:00Z"
     },
     "a7": {
       "id": "a7",
@@ -1362,7 +1368,7 @@
             }
           },
           "lpType": "non-compounding",
-          "lpTypeLabel": "📥 Non-Compounding"
+          "lpTypeLabel": "\ud83d\udce5 Non-Compounding"
         }
       ],
       "fetchedAt": "2026-01-07T20:47:10.115Z",
@@ -1435,7 +1441,8 @@
           "LUNA": -28236.805998
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-01-15T12:00:00Z"
     },
     "a8": {
       "id": "a8",
@@ -1621,7 +1628,7 @@
             }
           },
           "lpType": "non-compounding",
-          "lpTypeLabel": "📥 Non-Compounding"
+          "lpTypeLabel": "\ud83d\udce5 Non-Compounding"
         }
       ],
       "fetchedAt": "2026-01-07T20:47:36.950Z",
@@ -1694,7 +1701,8 @@
           "LUNA": -19490.190833
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-01-15T12:00:00Z"
     },
     "a9": {
       "id": "a9",
@@ -1891,7 +1899,8 @@
           "arbLUNA Token": -27107.839394
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-01-15T12:00:00Z"
     },
     "a10": {
       "id": "a10",
@@ -2260,7 +2269,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-02-15T12:00:00Z"
     },
     "a11": {
       "id": "a11",
@@ -2369,12 +2379,13 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-02-15T12:00:00Z"
     },
     "a12": {
       "id": "a12",
-      "title": "Fund Swiftsol’s TG & Twitter Bot Updates + Ongoing Support for BBL / BoostDAO Marketplaces & Collection Info ",
-      "description": "This proposal requests a payment of 3,000 LUNA from the DAO treasury to compensate community member @Swiftsol for the development and ongoing maintenance until 03/15/26 of two critical bots that enhance the visibility and functionality of the Alliance DAO NFT collection across Telegram and Twitter.\n\n@Swiftsol has delivered the following bots:\n\n1. Marketplace Sales Bot (Telegram)\n\nTracks real-time sales from both Backbone Labs and BoostDAO marketplaces, including:\n\nSale price and marketplace origin\n\nNFT image and ID\n\nFloor price (FP) reporting for both marketplaces. NOTE due to the amount of list token options in Boost the bot will only report LUNA, USDC, and ampLUNA listings at this time. \n\nFloor status (broken vs. unbroken)\n\nTotal number of NFTs listed across marketplaces\n\n2. About Bot (Telegram)\nProvides quick-access information about the collection, including:\n\nCollection summary\n\nKey links (marketplaces, staking, governance, social links etc.)\n\n3. NFT Tracker Bot (Telegram)\nTracks and reports live data such as:\n\nMinted vs. unminted supply\n\nBroken NFTs (DAO-broken vs. user-broken)\n\nTradeable vs. Locked NFTs\n\nStaked NFTs in DAODAO and Enterprise.\n\n\nThe total amount requested is 3,000 LUNA, covering:\n\n1,500 LUNA (250 USD) for the Telegram bot work.\n\n1,500 LUNA (250 USD) for the Twitter bot work.\n\nThis compensation includes past development work and guarantees ongoing support and maintenance through March 15, 2026.\n\nThese tools strengthen our collection’s transparency, community engagement, and marketplace coverage all are critical pieces as we continue to expand Alliance DAO's presence and credibility.\n~@~@~@~\n{\"version\":1,\"memo\":\"Compensation includes past TG/Twitter development work and guarantees ongoing support and maintenance through March 15, 2026\"}",
+      "title": "Fund Swiftsol\u2019s TG & Twitter Bot Updates + Ongoing Support for BBL / BoostDAO Marketplaces & Collection Info ",
+      "description": "This proposal requests a payment of 3,000 LUNA from the DAO treasury to compensate community member @Swiftsol for the development and ongoing maintenance until 03/15/26 of two critical bots that enhance the visibility and functionality of the Alliance DAO NFT collection across Telegram and Twitter.\n\n@Swiftsol has delivered the following bots:\n\n1. Marketplace Sales Bot (Telegram)\n\nTracks real-time sales from both Backbone Labs and BoostDAO marketplaces, including:\n\nSale price and marketplace origin\n\nNFT image and ID\n\nFloor price (FP) reporting for both marketplaces. NOTE due to the amount of list token options in Boost the bot will only report LUNA, USDC, and ampLUNA listings at this time. \n\nFloor status (broken vs. unbroken)\n\nTotal number of NFTs listed across marketplaces\n\n2. About Bot (Telegram)\nProvides quick-access information about the collection, including:\n\nCollection summary\n\nKey links (marketplaces, staking, governance, social links etc.)\n\n3. NFT Tracker Bot (Telegram)\nTracks and reports live data such as:\n\nMinted vs. unminted supply\n\nBroken NFTs (DAO-broken vs. user-broken)\n\nTradeable vs. Locked NFTs\n\nStaked NFTs in DAODAO and Enterprise.\n\n\nThe total amount requested is 3,000 LUNA, covering:\n\n1,500 LUNA (250 USD) for the Telegram bot work.\n\n1,500 LUNA (250 USD) for the Twitter bot work.\n\nThis compensation includes past development work and guarantees ongoing support and maintenance through March 15, 2026.\n\nThese tools strengthen our collection\u2019s transparency, community engagement, and marketplace coverage all are critical pieces as we continue to expand Alliance DAO's presence and credibility.\n~@~@~@~\n{\"version\":1,\"memo\":\"Compensation includes past TG/Twitter development work and guarantees ongoing support and maintenance through March 15, 2026\"}",
       "status": "Executed",
       "proposer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
       "votes": {
@@ -2516,7 +2527,8 @@
           "LUNA": -3000
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a13": {
       "id": "a13",
@@ -2676,7 +2688,8 @@
           "zLUNA": -20256.237729
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a14": {
       "id": "a14",
@@ -2857,7 +2870,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a15": {
       "id": "a15",
@@ -3051,7 +3065,8 @@
           "zLUNA": -20256.237729
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a16": {
       "id": "a16",
@@ -3158,7 +3173,7 @@
           "action": "execute",
           "actionName": "execute",
           "contract": "terra1eumwktcszm8p5p3apuxq4mrk008rx8sakntq68a5x6l6my33jl2qfvsfge",
-          "contractName": "Polytone Note (→ Neutron)",
+          "contractName": "Polytone Note (\u2192 Neutron)",
           "contractClass": "text-green-400",
           "contractType": "contract",
           "funds": null,
@@ -3190,7 +3205,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a17": {
       "id": "a17",
@@ -3361,7 +3377,8 @@
           "ampLUNA Token": -324.97745
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a18": {
       "id": "a18",
@@ -3738,7 +3755,8 @@
           "LUNA": -475
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-06-15T12:00:00Z"
     },
     "a19": {
       "id": "a19",
@@ -3839,7 +3857,7 @@
           "action": "execute",
           "actionName": "execute",
           "contract": "terra1r7fej5936y57hzhavw6wt6lld5vq27av3ftl7jjvlgcc4lh0ehrs2n9cvy",
-          "contractName": "Polytone Note (→ Cosmos Hub)",
+          "contractName": "Polytone Note (\u2192 Cosmos Hub)",
           "contractClass": "text-green-400",
           "contractType": "contract",
           "funds": null,
@@ -3871,7 +3889,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-07-15T12:00:00Z"
     },
     "a20": {
       "id": "a20",
@@ -4451,12 +4470,13 @@
           "zLUNA": -2074.83251
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-07-15T12:00:00Z"
     },
     "a21": {
       "id": "a21",
       "title": "Stake 20 Pixel Lions, Whitelist $ROAR & Finalize 1.5B ROAR for 4,500 LUNA OTC Deal",
-      "description": "This proposal authorizes the following actions to advance Allaince DAO’s partnership with Lion DAO and Pixel Lions:\n\t1.\tStake 20 Pixel Lion NFTs in PL DAO.\n\t2.\tWhitelist $ROAR token in our DAO treasury for visibility and tracking.\n\t3.\tWhitelist Pixel Lion NFTs for treasury display.\n\t4.\tApprove and execute an OTC token deal with PixeLion a (the stewardship wallet for Lion DAO & Pixel Lions), involving:\n\t•\tAlliance DAO contributing 4,500 LUNA.\n\t•\tPixeLion / Lion DAO contributing 1.5 billion $ROAR.\n\t•\tTokens distributed to both DAOs per the agreed allocation.\n\nUpon passing prop in both DAO’s, Alliance DAO will hold 1.5 billion $ROAR from this OTC deal, in addition to 1.5 billion $ROAR already received from the prior NFT partnership (total: 3 billion $ROAR).\n\nOnce ROAR is in our treasury a follow-up proposal will deploy the 3B $ROAR in line with the results from our recent community poll in Telegram. ",
+      "description": "This proposal authorizes the following actions to advance Allaince DAO\u2019s partnership with Lion DAO and Pixel Lions:\n\t1.\tStake 20 Pixel Lion NFTs in PL DAO.\n\t2.\tWhitelist $ROAR token in our DAO treasury for visibility and tracking.\n\t3.\tWhitelist Pixel Lion NFTs for treasury display.\n\t4.\tApprove and execute an OTC token deal with PixeLion a (the stewardship wallet for Lion DAO & Pixel Lions), involving:\n\t\u2022\tAlliance DAO contributing 4,500 LUNA.\n\t\u2022\tPixeLion / Lion DAO contributing 1.5 billion $ROAR.\n\t\u2022\tTokens distributed to both DAOs per the agreed allocation.\n\nUpon passing prop in both DAO\u2019s, Alliance DAO will hold 1.5 billion $ROAR from this OTC deal, in addition to 1.5 billion $ROAR already received from the prior NFT partnership (total: 3 billion $ROAR).\n\nOnce ROAR is in our treasury a follow-up proposal will deploy the 3B $ROAR in line with the results from our recent community poll in Telegram. ",
       "status": "Executed",
       "proposer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
       "votes": {
@@ -5172,7 +5192,8 @@
           "LUNA": -4500
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-08-15T12:00:00Z"
     },
     "a22": {
       "id": "a22",
@@ -5413,7 +5434,7 @@
             }
           },
           "lpType": "compounding",
-          "lpTypeLabel": "🔄 Auto-Compounding"
+          "lpTypeLabel": "\ud83d\udd04 Auto-Compounding"
         },
         {
           "index": 4,
@@ -5468,7 +5489,7 @@
             }
           },
           "lpType": "non-compounding",
-          "lpTypeLabel": "📥 Non-Compounding"
+          "lpTypeLabel": "\ud83d\udce5 Non-Compounding"
         },
         {
           "index": 6,
@@ -5516,7 +5537,7 @@
             }
           },
           "lpType": "compounding",
-          "lpTypeLabel": "🔄 Auto-Compounding"
+          "lpTypeLabel": "\ud83d\udd04 Auto-Compounding"
         },
         {
           "index": 8,
@@ -5563,7 +5584,7 @@
             }
           },
           "lpType": "non-compounding",
-          "lpTypeLabel": "📥 Non-Compounding"
+          "lpTypeLabel": "\ud83d\udce5 Non-Compounding"
         }
       ],
       "fetchedAt": "2026-01-07T20:56:43.092Z",
@@ -5737,7 +5758,8 @@
           "LUNA": -3528.813854
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-08-15T12:00:00Z"
     },
     "a23": {
       "id": "a23",
@@ -5873,7 +5895,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-08-15T12:00:00Z"
     },
     "a24": {
       "id": "a24",
@@ -6279,7 +6302,8 @@
           "LUNA": -409
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-08-15T12:00:00Z"
     },
     "a25": {
       "id": "a25",
@@ -6530,7 +6554,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-08-15T15:08:00Z"
     },
     "a26": {
       "id": "a26",
@@ -6929,7 +6954,7 @@
           },
           {
             "token": "IBC/2C962D",
-            "amount": 0.000008,
+            "amount": 8e-06,
             "from": "",
             "raw": "8ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB,239609229uluna"
           }
@@ -7021,7 +7046,8 @@
           "ampLUNA Token": -88.058197
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-09-08T02:52:00Z"
     },
     "a27": {
       "id": "a27",
@@ -7285,7 +7311,8 @@
           "amplp LUNA-ampLUNA (P)": -4523.501996
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-09-09T19:55:00Z"
     },
     "a28": {
       "id": "a28",
@@ -7521,7 +7548,8 @@
           "zLUNA": -4412.055392
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-12-18T08:38:00Z"
     },
     "a29": {
       "id": "a29",
@@ -7654,7 +7682,8 @@
         "expectedReturns": [],
         "netByToken": {},
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-12-18T08:39:00Z"
     },
     "a30": {
       "id": "a30",
@@ -7791,7 +7820,8 @@
           "arbLUNA Token": -10
         },
         "totalUsdEstimate": null
-      }
+      },
+      "executedAt": "2025-12-14T16:59:00Z"
     }
   }
 }
