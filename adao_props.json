@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-01-11T20:52:01.426Z",
+  "exported_at": "2026-04-27T00:15:18.904Z",
   "dao": "alliancedao",
   "daoName": "Alliance DAO",
   "proposals": {
@@ -8275,6 +8275,324 @@
           "ampLUNA Token": -478.763618,
           "arbLUNA Token": -10,
           "zLUNA": -692.222119
+        },
+        "totalUsdEstimate": null
+      }
+    },
+    "A32": {
+      "id": "A32",
+      "title": "Claim Free Genesis Crystal Mint (Solid) ",
+      "description": "This prop will claim the NFT our address was whitelisted for. This was from our past participation in Solid protocol with various DeFi positions. ",
+      "status": "Executed",
+      "proposer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+      "votes": {
+        "yes": 355,
+        "no": 0,
+        "abstain": 0,
+        "total": 355
+      },
+      "voting": {
+        "turnout": 23.142112125162974,
+        "yesPercent": 100,
+        "noPercent": 0,
+        "abstainPercent": 0,
+        "quorumReached": true,
+        "thresholdReached": true,
+        "quorumThreshold": 10,
+        "passThreshold": 50
+      },
+      "outcome": "passed",
+      "outcomeReason": "Proposal passed and executed",
+      "totalPower": 1534,
+      "voters": [
+        {
+          "address": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+          "name": "DeFi_Patriot",
+          "vote": "yes",
+          "power": 291
+        },
+        {
+          "address": "terra1j3ynfcuzl9e5y33ts9lcfxcteh7xg2a3zzc7gm",
+          "name": "Crypto007",
+          "vote": "yes",
+          "power": 38
+        },
+        {
+          "address": "terra18au39029aa4mey00fap4l74c936l8efjuqhf6u",
+          "name": "Unknown Member",
+          "vote": "yes",
+          "power": 10
+        },
+        {
+          "address": "terra1vjgada9t78eh4v8whp9p8cg4evq4erusx9w6w8",
+          "name": "DigitalCowboy",
+          "vote": "yes",
+          "power": 8
+        },
+        {
+          "address": "terra1k6424kpxl2ax6c58lutrz2sdkllyuq9dafq8f8",
+          "name": "Nick74",
+          "vote": "yes",
+          "power": 4
+        },
+        {
+          "address": "terra1y5mneh2gamuztzza42pdd89u47sdx9kqdy022l",
+          "name": "luckystan777",
+          "vote": "yes",
+          "power": 2
+        },
+        {
+          "address": "terra1zla8ld2ewhenmyf5l0f0guxq00z3653mqumcgr",
+          "name": "Jorgi",
+          "vote": "yes",
+          "power": 2
+        }
+      ],
+      "rawMsgs": [
+        {
+          "wasm": {
+            "execute": {
+              "contract_addr": "terra1jez9g0kqq7lze8ncqunvxzs9d2tu4m9p5vep3d2dgs4dxh5nfj9sm9vgl4",
+              "msg": "eyJnZW5lc2lzX21pbnQiOnt9fQ==",
+              "funds": []
+            }
+          }
+        }
+      ],
+      "decodedActions": [
+        {
+          "index": 1,
+          "type": "wasm",
+          "action": "genesis_mint",
+          "actionName": "genesis_mint",
+          "contract": "terra1jez9g0kqq7lze8ncqunvxzs9d2tu4m9p5vep3d2dgs4dxh5nfj9sm9vgl4",
+          "contractName": "Unknown",
+          "contractClass": "text-red-400",
+          "contractType": "unknown",
+          "funds": null,
+          "params": {}
+        }
+      ],
+      "fetchedAt": "2026-04-27T00:01:52.003Z",
+      "executionTx": null,
+      "txHash": null,
+      "daoId": "alliancedao",
+      "treasuryImpact": {
+        "outflows": [],
+        "inflows": [],
+        "expectedReturns": [],
+        "netByToken": {},
+        "totalUsdEstimate": null
+      }
+    },
+    "A33": {
+      "id": "A33",
+      "title": "Test mint 1 NFT (Solid) Crystal max boosted ",
+      "description": "This prop is a single test mint prop prior to another prop that will be posted day after this prop. The following prop will be a bulk mint prop. want to make sure this prop executes without any conflicts prior to bulk prop execution. \n\nThese props are a follow up to a Telagram poll that ran for 2 days in aDAO chat as a signal poll. The final results resulted in 12 votes supporting the mint and 3 votes against it. ",
+      "status": "Executed",
+      "proposer": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+      "votes": {
+        "yes": 355,
+        "no": 0,
+        "abstain": 0,
+        "total": 355
+      },
+      "voting": {
+        "turnout": 23.142112125162974,
+        "yesPercent": 100,
+        "noPercent": 0,
+        "abstainPercent": 0,
+        "quorumReached": true,
+        "thresholdReached": true,
+        "quorumThreshold": 10,
+        "passThreshold": 50
+      },
+      "outcome": "passed",
+      "outcomeReason": "Proposal passed and executed",
+      "totalPower": 1534,
+      "voters": [
+        {
+          "address": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
+          "name": "DeFi_Patriot",
+          "vote": "yes",
+          "power": 291
+        },
+        {
+          "address": "terra1j3ynfcuzl9e5y33ts9lcfxcteh7xg2a3zzc7gm",
+          "name": "Crypto007",
+          "vote": "yes",
+          "power": 38
+        },
+        {
+          "address": "terra18au39029aa4mey00fap4l74c936l8efjuqhf6u",
+          "name": "Unknown Member",
+          "vote": "yes",
+          "power": 10
+        },
+        {
+          "address": "terra1vjgada9t78eh4v8whp9p8cg4evq4erusx9w6w8",
+          "name": "DigitalCowboy",
+          "vote": "yes",
+          "power": 8
+        },
+        {
+          "address": "terra1k6424kpxl2ax6c58lutrz2sdkllyuq9dafq8f8",
+          "name": "Nick74",
+          "vote": "yes",
+          "power": 4
+        },
+        {
+          "address": "terra1y5mneh2gamuztzza42pdd89u47sdx9kqdy022l",
+          "name": "luckystan777",
+          "vote": "yes",
+          "power": 2
+        },
+        {
+          "address": "terra1zla8ld2ewhenmyf5l0f0guxq00z3653mqumcgr",
+          "name": "Jorgi",
+          "vote": "yes",
+          "power": 2
+        }
+      ],
+      "rawMsgs": [
+        {
+          "wasm": {
+            "execute": {
+              "contract_addr": "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a",
+              "msg": "eyJleGVjdXRlX3N3YXBfb3BlcmF0aW9ucyI6eyJvcGVyYXRpb25zIjpbeyJhc3Ryb19zd2FwIjp7Im9mZmVyX2Fzc2V0X2luZm8iOnsibmF0aXZlX3Rva2VuIjp7ImRlbm9tIjoidWx1bmEifX0sImFza19hc3NldF9pbmZvIjp7Im5hdGl2ZV90b2tlbiI6eyJkZW5vbSI6ImliYy8yQzk2MkRBQjlGNTdGRTA5MjE0MzU0MjZBRTc1MTk2MDA5RkFBMTk4MUJGODY5OTEyMDNDODQxMUY4OTgwRkRCIn19fX1dLCJtaW5pbXVtX3JlY2VpdmUiOiIyNTAwMDAwMCIsIm1heF9zcHJlYWQiOiIwLjAyIn19",
+              "funds": [
+                {
+                  "denom": "uluna",
+                  "amount": "442772905"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "wasm": {
+            "execute": {
+              "contract_addr": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+              "msg": "eyJpbmNyZWFzZV9hbGxvd2FuY2UiOnsic3BlbmRlciI6InRlcnJhMWplejlnMGtxcTdsemU4bmNxdW52eHpzOWQydHU0bTlwNXZlcDNkMmRnczRkeGg1bmZqOXNtOXZnbDQiLCJhbW91bnQiOiIyMDAwMDAwMDAwMCJ9fQ==",
+              "funds": []
+            }
+          }
+        },
+        {
+          "wasm": {
+            "execute": {
+              "contract_addr": "terra1jez9g0kqq7lze8ncqunvxzs9d2tu4m9p5vep3d2dgs4dxh5nfj9sm9vgl4",
+              "msg": "eyJib29zdGVkX21pbnQiOnsiYm9vc3RfbGV2ZWwiOjJ9fQ==",
+              "funds": [
+                {
+                  "denom": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+                  "amount": "25000000"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "decodedActions": [
+        {
+          "index": 1,
+          "type": "wasm",
+          "action": "execute_swap_operations",
+          "actionName": "execute_swap_operations",
+          "contract": "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a",
+          "contractName": "Unknown",
+          "contractClass": "text-red-400",
+          "contractType": "unknown",
+          "funds": [
+            {
+              "amount": 442.772905,
+              "denom": "LUNA"
+            }
+          ],
+          "params": {
+            "operations": [
+              {
+                "astro_swap": {
+                  "offer_asset_info": {
+                    "native_token": {
+                      "denom": "uluna"
+                    }
+                  },
+                  "ask_asset_info": {
+                    "native_token": {
+                      "denom": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
+                    }
+                  }
+                }
+              }
+            ],
+            "minimum_receive": "25000000",
+            "max_spread": "0.02"
+          }
+        },
+        {
+          "index": 2,
+          "type": "wasm",
+          "action": "increase_allowance",
+          "actionName": "increase_allowance",
+          "contract": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+          "contractName": "CAPA Token",
+          "contractClass": "text-green-400",
+          "contractType": "contract",
+          "funds": null,
+          "params": {
+            "spender": "terra1jez9g0kqq7lze8ncqunvxzs9d2tu4m9p5vep3d2dgs4dxh5nfj9sm9vgl4",
+            "amount": "20000000000"
+          }
+        },
+        {
+          "index": 3,
+          "type": "wasm",
+          "action": "boosted_mint",
+          "actionName": "boosted_mint",
+          "contract": "terra1jez9g0kqq7lze8ncqunvxzs9d2tu4m9p5vep3d2dgs4dxh5nfj9sm9vgl4",
+          "contractName": "Unknown",
+          "contractClass": "text-red-400",
+          "contractType": "unknown",
+          "funds": [
+            {
+              "amount": 25,
+              "denom": "IBC/2C962D"
+            }
+          ],
+          "params": {
+            "boost_level": 2
+          }
+        }
+      ],
+      "fetchedAt": "2026-04-27T00:02:21.824Z",
+      "executionTx": null,
+      "txHash": null,
+      "daoId": "alliancedao",
+      "treasuryImpact": {
+        "outflows": [
+          {
+            "action": 1,
+            "actionName": "execute_swap_operations",
+            "token": "LUNA",
+            "amount": 442.772905,
+            "recipient": "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a",
+            "recipientName": "Unknown"
+          },
+          {
+            "action": 3,
+            "actionName": "boosted_mint",
+            "token": "IBC/2C962D",
+            "amount": 25,
+            "recipient": "terra1jez9g0kqq7lze8ncqunvxzs9d2tu4m9p5vep3d2dgs4dxh5nfj9sm9vgl4",
+            "recipientName": "Unknown"
+          }
+        ],
+        "inflows": [],
+        "expectedReturns": [],
+        "netByToken": {
+          "LUNA": -442.772905,
+          "IBC/2C962D": -25
         },
         "totalUsdEstimate": null
       }
